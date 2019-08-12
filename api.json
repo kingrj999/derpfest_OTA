@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1565603100,
+      "datetime": 1565617884,
       "filename": "AOSiP-9.0-DerpFest-HOMEMADE-osprey-20190812-175808.zip",
       "id": "3996efd544f896dd9cc3ea8f24e7e15dcdf71c36",
       "romtype": "UNOFFICIAL",
       "size": 471804785,
-      "url": "https://va1.androidfilehost.com/dl/U09TfBRTX7mCWoIv_QpcXg/1565846799/6006931924117935487/AOSiP-9.0-DerpFest-HOMEMADE-osprey-20190812-175808.zip",
+      "url": "https://192.168.0.101:8000/aosip.zip",
       
       "version": "9.0"
     }
